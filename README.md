@@ -24,7 +24,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![] (tip-calc-walkthrough.gif)
+![] (https://imgur.com/a/YxEIzxf.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
